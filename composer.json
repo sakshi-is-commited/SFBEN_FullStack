@@ -1,0 +1,13 @@
+{
+    "name": "sakshiadarkar/ui_full_stack_assignment",
+    "description": "A full-stack project demonstrating HTML, CSS, JavaScript, PHP, and email integration.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "sakshi-is-committed"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
